@@ -1,0 +1,5 @@
+{
+  "name": "Promptique",
+  "description": "An application that fuses a user's face with a reference image's style. Users upload their photo and a reference image. The app then performs a sophisticated analysis of the reference's photographic and cinematic style to generate a detailed prompt, creating a new high-quality portrait that combines the user's features with the reference's aesthetic.",
+  "requestFramePermissions": []
+}
